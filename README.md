@@ -1,4 +1,15 @@
-# color_palette_generator_app
+<!DOCTYPE html>
+<html>
+<body>
+<left>
+         <h2>Color_Palette_Generator_App</h2>
+         <center>
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231004171633/gfg-(9).jpg" alt="W3Schools.com" style="width:816px;height:592px;">
+
+</body>
+</html>
+
 
 A new Flutter project.
 
